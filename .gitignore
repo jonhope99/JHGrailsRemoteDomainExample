@@ -3,6 +3,17 @@
 # suggested that you use the "grails integrate-with --git" command
 # to generate your .gitignore file.
 
+#JH added
+Db.properties
+Db.script
+.settings
+.classpath
+.project
+eclipse
+stacktrace.log
+target
+target-eclipse
+
 # web application files
 /web-app/WEB-INF/classes
 
